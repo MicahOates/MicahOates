@@ -1,4 +1,4 @@
-🛠️ Data Science & ML enthusiast. Proficient in Python, R, & SQL. Crafting innovative solutions through code and data-driven insights. Open for collaborations and always eager to learn
+Passionate Data Scientist with a penchant for machine learning. Exploring the intersections of data, tech, and actionable insights. Dive into my repositories to see how I crunch numbers and build models. Always eager to collaborate and innovate!
 
 <!---
 MicahOates/MicahOates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
